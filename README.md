@@ -1,7 +1,8 @@
 #  StockSmarts – Risk-Adjusted Stock Performance Analysis
-
+Excel-driven stock performance analysis focusing on risk-adjusted returns and volatility
 A data analysis project focused on evaluating stock performance using
 risk-adjusted metrics rather than price growth alone.
+https://www.notion.so/Hey-there-I-am-Daniya-2c415baf3592802b8d0bfd17de0aca63?source=copy_link
 
 ##  Problem
 Traditional stock evaluation relies heavily on price appreciation,
@@ -34,3 +35,4 @@ performers using returns, volatility, and trend consistency.
 ##  Deliverables
 - Executive PPT
 - Excel Analysis Workbook
+  
